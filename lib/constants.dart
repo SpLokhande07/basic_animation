@@ -1,0 +1,6 @@
+
+
+
+enum AnimationType  {
+  ROTATION
+}
